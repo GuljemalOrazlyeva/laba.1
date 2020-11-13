@@ -45,4 +45,5 @@ public class Main {
         System.out.println("kolichestvo Cheese = "+c);
         System.out.println("kolichestvo Pie = "+p);
     }
+    gi
 }
